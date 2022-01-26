@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class Vote {
 	
+	public void asmi() {
+System.out.println("asmi");
+		
+		
+	}
+	
 		public static void main(String[] args)
 	    {
 	        
