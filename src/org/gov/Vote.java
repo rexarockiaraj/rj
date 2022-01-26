@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 public class Vote {
 	
-		public static void main(String[] args)
+	private void asmi() {
+System.out.println("add 2 method");
+		
+		
+	}	
+	
+	public static void main(String[] args)
 	    {
 	        
 	        Scanner s = new Scanner(System.in);
